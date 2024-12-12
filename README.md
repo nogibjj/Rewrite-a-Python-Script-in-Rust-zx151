@@ -1,5 +1,5 @@
 # Rewriting a Python Script in Rust: Analysis of Spotify 2023 Streaming Data
-
+[![CI](https://github.com/nogibjj/Rewrite-a-Python-Script-in-Rust-zx151/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Rewrite-a-Python-Script-in-Rust-zx151/actions/workflows/cicd.yml)
 ## Introduction
 
 This repository showcases a comparison between a data processing script in Python and its equivalent in Rust. The main goal is to illustrate the enhancements in speed and resource efficiency when using Rust.
